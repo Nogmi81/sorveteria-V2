@@ -8,7 +8,7 @@ export default function Topo() {
   return(
     <header className={estilos.topo_container}>
       <div>
-        <Image className={estilos.img} src={Logo} alt="logomarca"/>
+        <Link href="/"><Image className={estilos.img} src={Logo} alt="logomarca"/></Link>
         <nav>
           <Link className={estilos.link_topo} href="/">Home</Link>
           <Link className={estilos.link_topo} href="/sabores">Sabores</Link>
