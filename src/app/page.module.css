@@ -86,7 +86,7 @@
 @media (min-width: 375px) and (max-width: 700px){
   .secao_banner {
     width: 100%;
-    min-height: 70vh;
+    min-height: 90vh;
     position: relative;
     top: 80px;
     display: flex;
