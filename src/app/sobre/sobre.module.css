@@ -91,13 +91,6 @@
 }
 
 @media (max-width: 768px) {
-  .secao_banner_sobre {
-    position: relative;
-    top: 150px;
-    height: 70vh;
-    /* background-color: #474747; */
-  }
-  
   .secao_banner_sobre div h1 {
     font-size: 60px;
   }
@@ -108,6 +101,18 @@
 
   .img {
     width: 100%;
+  }
+}
+
+@media (max-width: 768px){
+  .secao_banner_sobre div h1 {
+    font-size: 60px;
+  }
+}
+
+@media (max-width: 525px){
+  .secao_banner_sobre div h1 {
+    font-size: 40px;
   }
 }
 
