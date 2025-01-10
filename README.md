@@ -4,6 +4,8 @@ Imagens (das extremidades) da capa foram geradas por IA
 
 Link: https://sorveteria-v2.vercel.app/
 
+![image](https://github.com/user-attachments/assets/ad80c9d6-7e67-451d-bf02-d71ba4afb496)
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
